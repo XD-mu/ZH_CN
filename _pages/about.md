@@ -72,7 +72,7 @@ with Noisy Labels.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Hazardous Materials 2025</div><img src='images/Weixian.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	Liyan Bi *, Huangruici Zhang*, `Chenyu Mu`*, Kaidi Sun, Hao Chen, Zhiyang Zhang, Lingxin Chen. Paper-based SERS chip with adaptive attention neural network for pathogen identification.  
+-	Liyan Bi**, Huangruici Zhang**, `Chenyu Mu`*, Kaidi Sun, Hao Chen, Zhiyang Zhang, Lingxin Chen. Paper-based SERS chip with adaptive attention neural network for pathogen identification.  
 [[文章链接]](https://www.sciencedirect.com/science/article/abs/pii/S0304389425016103) 
 
 </div>
