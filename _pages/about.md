@@ -42,17 +42,10 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/ICCV.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Jian Tang`, Rongbiao Wang, Gongzhe Qiu, Yu Hu, Yihua Kang. Mechanism of magnetic flux leakage detection method based on the slotted ferromagnetic lift-off layer. *Sensors*, 2022, 22(9): 3587. (JCR:Q2; IF:3.847)  
-[[文章链接]](https://dx.doi.org/10.3390/s22093587)
+-	`Chenyu Mu`, Yijun Qu, Jiexi Yan, Erkun Yang*, Cheng Deng. Meta-Learning Dynamic Center Distance: Hard Sample Mining for Learning
+with Noisy Labels. 
+[[文章链接]](https:)
 
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sens. Journal of Hazardous Materials. 2025</div><img src='images/Weixian.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
--	`Jian Tang`, Rongbiao Wang, Bocheng Liu, Yihua Kang. A novel magnetic flux leakage method based on the ferromagnetic lift-off layer with through groove. *Sensors and Actuators A: Physical*. 2021: 113091. (JCR:Q1; IF:4.291)  
-[[文章链接]](https://dx.doi.org/10.1016/j.sna.2021.113091) 
 
 </div>
 </div>
@@ -60,8 +53,8 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Int. J. SIGIR. 2025</div><img src='images/SIGIR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Jian Tang`, Rongbiao Wang, Jikai Zhang, Yihua Kang. The influence of magnetic head’s pose on magnetic flux leakage detection. *International Journal of Applied Electromagnetics and Mechanics*. 2020, 64(1–4): 493–500. (JCR:Q4; IF:0.536)  
-[[文章链接]](https://dx.doi.org/10.3233/JAE-209356)
+-	`Chenyu Mu`, Erkun Yang, Cheng Deng. Meta-Guided Adaptive Weight Learner for Noisy Correspondence. 
+[[文章链接]](https://dl.acm.org/doi/pdf/10.1145/3726302.3730032)
 
 </div>
 </div>
@@ -69,13 +62,21 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Int. J. AAAI. 2025</div><img src='images/AAAI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Jian Tang`, Rongbiao Wang, Jikai Zhang, Yihua Kang. The influence of magnetic head’s pose on magnetic flux leakage detection. *International Journal of Applied Electromagnetics and Mechanics*. 2020, 64(1–4): 493–500. (JCR:Q4; IF:0.536)  
-[[文章链接]](https://dx.doi.org/10.3233/JAE-209356)
+-	`Chenyu Mu`, Jiahua Li, Kun Wei, Cheng Deng. Energy vs. Noise: Towards Robust Temporal Action Localization in Open-World. 
+[[文章链接]](https://ojs.aaai.org/index.php/AAAI/article/view/32659/34814)
 
 </div>
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sens. Journal of Hazardous Materials. 2025</div><img src='images/Weixian.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+-	Liyan Bi, Huangruici Zhang, `Chenyu Mu`, Kaidi Sun, Hao Chen, Zhiyang Zhang, Lingxin Chen. Paper-based SERS chip with adaptive attention neural network for pathogen identification.  
+[[文章链接]](https://www.sciencedirect.com/science/article/abs/pii/S0304389425016103) 
+
+</div>
+</div>
 
 
 <!-- ### 专利
