@@ -18,7 +18,6 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-# 🎓 简介
 我将硕士毕业于陕西西安的 西安电子科技大学 电子工程学院，我的导师是邓成教授。本科毕业于陕西西安的 西安电子科技大学 电子工程学院。包括合著，我已经发表 4 篇学术论文
  <a href='https://scholar.google.com/citations?user=CYT2dggAAAAJ&hl=en&oi=ao'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
