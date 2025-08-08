@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "慕晨宇"
-  avatar           : "/images/pci_main.png"
+  avatar           : "images/android-chrome-512x512.png"
   bio              : "西安电子科技大学"
   location         : "陕西 西安"
   employer         : #"Hefei General Machinery Research Institute"
