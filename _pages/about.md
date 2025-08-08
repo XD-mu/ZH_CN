@@ -30,14 +30,14 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2024.06 - 至今*, <a href="https://www.xidian.edu.cn/"><img class="svg" src="/images/logo.png" width="23pt"></a> 西安电子科技大学 电子工程学院, 陕西西安, 推免 
+- *2024.06 - 至今*, <a href="https://www.xidian.edu.cn/"><img class="svg" src="/images/logo.png" width="23pt"></a> 西安电子科技大学 电子工程学院, 陕西西安, 硕士 
 - *2020.09 - 2024.06*, <a href="https://www.xidian.edu.cn/"><img class="svg" src="/images/logo.png" width="20pt"></a> 西安电子科技大学 电子工程学院, 陕西西安, 本科
  
 <span class='anchor' id='-lwzl'></span>
 
 # 📝 论文
 
-### 英文
+<!-- ### 英文 -->
 ---
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/ICCV.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -62,7 +62,7 @@ with Noisy Labels.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Int. J. AAAI. 2025</div><img src='images/AAAI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Chenyu Mu`, Jiahua Li, Kun Wei, Cheng Deng. Energy vs. Noise: Towards Robust Temporal Action Localization in Open-World. 
+-	`Chenyu Mu`*, Jiahua Li*, Kun Wei, Cheng Deng. Energy vs. Noise: Towards Robust Temporal Action Localization in Open-World. 
 [[文章链接]](https://ojs.aaai.org/index.php/AAAI/article/view/32659/34814)
 
 </div>
@@ -72,7 +72,7 @@ with Noisy Labels.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sens. Journal of Hazardous Materials. 2025</div><img src='images/Weixian.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	Liyan Bi, Huangruici Zhang, `Chenyu Mu`, Kaidi Sun, Hao Chen, Zhiyang Zhang, Lingxin Chen. Paper-based SERS chip with adaptive attention neural network for pathogen identification.  
+-	Liyan Bi*, Huangruici Zhang*, `Chenyu Mu`*, Kaidi Sun, Hao Chen, Zhiyang Zhang, Lingxin Chen. Paper-based SERS chip with adaptive attention neural network for pathogen identification.  
 [[文章链接]](https://www.sciencedirect.com/science/article/abs/pii/S0304389425016103) 
 
 </div>
