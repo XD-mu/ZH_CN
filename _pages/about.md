@@ -96,7 +96,7 @@ with Noisy Labels.
 <span class='anchor' id='-xshy'></span>
 
 # 🏛️ 学术会议
-- *2021.10*, 全国电磁无损检测技术研讨会 暨 中国机械工程学会无损检测分会电磁专业技术大会第十一届第四次全体会议, 陕西西安, 受邀报告
+- *2025.07*, ACM信息检索大会（SIGIR 2025）, 意大利帕多瓦, 受邀作学术论文口头报告
 
 
 <span class='anchor' id='-gzsx'></span>
