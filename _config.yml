@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "慕晨宇"
-description              : "跨模态检索/噪声标签"
-repository               : "https://github.com/XD-mu/XD-mu.github.io"
+description              : "Agent/MLLM/噪声标签"
+repository               : "XD-mu/XD-mu.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
